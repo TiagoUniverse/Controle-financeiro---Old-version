@@ -1,0 +1,15 @@
+Todas as variáveis ano existentes:
+
+Session['ano']
+
+SESSION['nomeMes']
+
+Session['statusMes']
+
+Session['quinzena']
+
+Session['tipo_registro']
+
+ $_SESSION['connected'] 
+            $_SESSION['user_email'] =
+            $_SESSION['user_name'] = 

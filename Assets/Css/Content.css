@@ -1,0 +1,39 @@
+.box {
+    background-color: lightgrey;
+      width: 199px;
+      border: 10px solid #38c5a7;
+      padding: 47px;
+      margin: 31px;
+  }
+
+  .box_Poupanca {
+    background-color: lightgrey;
+      width: 199px;
+      border: 10px solid #387ac5;
+      padding: 47px;
+      margin: 31px;
+  }
+
+  .filtro{
+    width: 10cm; margin-left:22cm;
+  }
+
+  .botao-voltar{
+    margin-left: 1cm;
+  }
+
+  .icon_exclusao{
+    height:0.6cm;
+  }
+
+@media screen and (max-width: 768px){
+  .box{
+    margin: 3px;
+  }
+
+  .filtro{
+    margin-left: 0cm;
+    width: 9cm;
+  }
+
+}
